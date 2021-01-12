@@ -5,7 +5,7 @@ I am **Yajat Malhotra** and welcome to my GitHub profile!
 - 😄 Pronouns: He/Him
 - 🍊 Fun fact: I like oranges
 ### Socials 😋
-- [Portfolio](https://www.iamyajat.com)
+- [Portfolio](https://www.iamyajat.co)
 - [LinkedIn](https://linkedin.com/in/iamyajat)
 - [Twitter](https://twitter.com/iamyajat)
 - [Instagram](https://instagram.com/iamyajat)
