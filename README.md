@@ -7,9 +7,7 @@ I am **Yajat Malhotra** and welcome to my GitHub profile!
 
 ### Stats 📈
 
-[![Yajat's github stats](https://github-readme-stats.vercel.app/api?username=iamyajat&theme=blue-green)](https://github.com/iamyajat/github-readme-stats)
-  
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=iamyajat&theme=blue-green)
+![Yajat's github stats](https://github-readme-stats.vercel.app/api?username=iamyajat&bg_color=30,0F2027,2C5364&title_color=fff&text_color=fff)
   
 ### Socials 😋
 <a href="https://www.iamyajat.co/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-Website-brightgreen?style=for-the-badge&logo=appveyor&logoColor=white&color=999900&logo=data:null" /></a>
