@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am **Yajat Malhotra** and welcome to my GitHub profile!
-- 🌱 I’m currently learning Machine Learning
-- ✨ I'm interested in Computer Vision
+- 🌱 I’m currently learning Machine Learning and Android AppDev
+- ✨ I'm interested in Computer Vision & NLP
 - 😄 Pronouns: He/Him
 - 🍊 Fun fact: I like oranges
 
