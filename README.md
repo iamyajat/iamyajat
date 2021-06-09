@@ -7,9 +7,9 @@ I am **Yajat Malhotra** and welcome to my GitHub profile!
 
 ### Stats 📈
 
-![Yajat's github stats](https://github-readme-stats.vercel.app/api?username=iamyajat&bg_color=30,0F2027,2C5364&title_color=fff&text_color=fff)
-![Yajat's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamyajat&layout=compact&hide=makefile,cmake,common%20lisp,jupyter%20notebook&langs_count=8&bg_color=30,2C5364,0F2027&title_color=fff&text_color=fff)
-  
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamyajat&theme=dark)
+![Yajat's github stats](https://github-readme-stats.vercel.app/api?username=iamyajat&bg_color=151515&show_icons=true&icon_color=fa8b00&border_color=b9b8b8&title_color=fff&text_color=fff)
+
 ### Socials 😋
 <a href="https://www.iamyajat.co/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-Website-brightgreen?style=for-the-badge&logo=appveyor&logoColor=white&color=999900&logo=data:null" /></a>
 <a href="https://linkedin.com/in/iamyajat" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
