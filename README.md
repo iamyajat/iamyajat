@@ -3,7 +3,7 @@ I am **Yajat Malhotra** and welcome to my GitHub profile!
 - 🌱 I’m currently learning Machine Learning and Android AppDev
 - ✨ I'm interested in Computer Vision & NLP
 - 😄 Pronouns: He/Him
-- 🍉 Fun fact: I like watermelons
+- 🍊 Fun fact: I like oranges (but not orange flavoured products)
 
 ### Stats 📈
 
